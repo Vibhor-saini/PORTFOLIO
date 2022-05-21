@@ -205,8 +205,8 @@ section .title::after {
     background: url(images/Screenshot\ \(157\).png) , url(images/first..png);
     height: 100vh;
     width: 100%;
-    color: black;
-      background-size:  40% 70%  , cover;
+    color: black;  
+    background-size:  43% 55%  , cover;
     background-position: right , center;
     background-repeat: no-repeat, no-repeat;
     clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);
